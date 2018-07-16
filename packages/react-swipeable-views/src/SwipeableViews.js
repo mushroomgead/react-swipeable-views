@@ -52,7 +52,7 @@ const styles = {
     willChange: 'transform',
   },
   slide: {
-    width: '100%',
+    width: 'auto',
     WebkitFlexShrink: 0,
     flexShrink: 0,
     overflow: 'auto',
